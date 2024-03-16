@@ -1,4 +1,5 @@
 #calculator
+#by obed amani
 <!DOCTYPE html>
 <html lang="en">
 <head>
